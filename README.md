@@ -1,6 +1,6 @@
 
-This repository summarizes what I learnt from "An Introduction to Statistical Learning with Applications in R" and includes my answers on the Labs.
+This repository includes my answers to the excercises "An Introduction to Statistical Learning with Applications in R".
 
-The books and relating codes, figures can be found from here:
+Original ebook and relating documents can be found here:
+
 http://www-bcf.usc.edu/~gareth/ISL/
-
