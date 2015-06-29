@@ -13,8 +13,9 @@ In a _p_-dimensional space, a _hyperplane_ is a flat affine subspace of dimensio
 
 We can see that the hyperplace divides _p_-dimensional space into two halves and by simply calculating the sign of the left hand side of (9.2), one can determine on which side of a hyperplane a point X = (X<sub>1</sub>,X<sub>2</sub>,...,X<sub>p</sub>)<sup>T</sup> lies.
 
-<figure align="center">
+<p align="center">
   <img src="../figures/Chapter9/9.1.pdf" width=300 height=300>
-  <figcaption>**FIGURE 9.1**. _The hyperplane 1 + 2X<sub>1</sub> + 3X<sub>2</sub> = 0 is shown. The blue region is the set of points for which 1 + 2X<sub>1</sub> + 3X<sub>2</sub> > 0, and the purple region is the set of points for which 1 + 2X<sub>1</sub> + 3X<sub>2</sub> < 0._
-  </figcaption>
-</figure>
+</p>
+<p>
+**FIGURE 9.1**. _The hyperplane 1 + 2X<sub>1</sub> + 3X<sub>2</sub> = 0 is shown. The blue region is the set of points for which 1 + 2X<sub>1</sub> + 3X<sub>2</sub> > 0, and the purple region is the set of points for which 1 + 2X<sub>1</sub> + 3X<sub>2</sub> < 0._
+</p>
