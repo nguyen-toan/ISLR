@@ -1,6 +1,6 @@
 _**Support vector machine (SVM)**_ is an approach for classification developed in the 1990s and considered on of the best "out of the box" classifiers. It is a further extension of *maximal margin classifier* and *support vector classifier*.
 
-<br></br>
+<br>
 
 #### 9.1 Maximal Margin Classifier
 
