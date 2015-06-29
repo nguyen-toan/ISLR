@@ -19,3 +19,4 @@ We can see that the hyperplace divides _p_-dimensional space into two halves and
 <p>
 **FIGURE 9.1**. _The hyperplane 1 + 2X<sub>1</sub> + 3X<sub>2</sub> = 0 is shown. The blue region is the set of points for which 1 + 2X<sub>1</sub> + 3X<sub>2</sub> > 0, and the purple region is the set of points for which 1 + 2X<sub>1</sub> + 3X<sub>2</sub> < 0._
 </p>
+
