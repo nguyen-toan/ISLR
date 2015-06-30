@@ -20,3 +20,14 @@ We can see that the hyperplace divides _p_-dimensional space into two halves and
 **FIGURE 9.1**. _The hyperplane 1 + 2X<sub>1</sub> + 3X<sub>2</sub> = 0 is shown. The blue region is the set of points for which 1 + 2X<sub>1</sub> + 3X<sub>2</sub> > 0, and the purple region is the set of points for which 1 + 2X<sub>1</sub> + 3X<sub>2</sub> < 0._
 </p>
 
+<br>
+
+##### 9.1.2 Classification Using a Separating Hyperplane
+
+<p align="center">
+  <img src="../figures/Chapter9/9.2.pdf" width=500 height=500>
+</p>
+<p>
+**FIGURE 9.1**. Left: _There are two classes of observations, shown in blue and in purple, each of which has measurements on two variables. Three separating hyperplanes, out of many possible, are shown in black._ Right: _A separating hyperplane is shown in black. The blue and purple grid indicates the decision rule made by a classifier based on this separating hyperplane: a test observation that falls in the blue portion of the grid will be assigned to the blue class, and a test observation that falls into the purple portion of the grid will be assigned to the purple class._
+</p>
+
