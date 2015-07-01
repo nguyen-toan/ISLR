@@ -25,7 +25,7 @@ We can see that the hyperplace divides _p_-dimensional space into two halves and
 ##### 9.1.2 Classification Using a Separating Hyperplane
 
 <p align="center">
-  <img src="../figures/Chapter9/9.2.pdf" width=500 height=500>
+  <img src="../figures/Chapter9/9.2.pdf" width=300 height=300>
 </p>
 <p>
 **FIGURE 9.2**. Left: _There are two classes of observations, shown in blue and in purple, each of which has measurements on two variables. Three separating hyperplanes, out of many possible, are shown in black._ Right: _A separating hyperplane is shown in black. The blue and purple grid indicates the decision rule made by a classifier based on this separating hyperplane: a test observation that falls in the blue portion of the grid will be assigned to the blue class, and a test observation that falls into the purple portion of the grid will be assigned to the purple class._
@@ -34,7 +34,7 @@ We can see that the hyperplace divides _p_-dimensional space into two halves and
 ##### 9.1.3 The Maximal Margin Classifier
 
 <p align="center">
-  <img src="../figures/Chapter9/9.3.pdf" width=500 height=500>
+  <img src="../figures/Chapter9/9.3.pdf" width=300 height=300>
 </p>
 <p>
 **FIGURE 9.3**. _There are two classes of observations, shown in blue and in purple. The maximal margin hyperplane is shown as a solid line. The margin is the distance from the solid line to either of the dashed lines. The two blue points and the purple point that lie on the dashed lines are the support vectors, and the distance from those points to the margin is indicated by arrows. The purple and blue grid indicates the decision rule made by a classifier based on this separating hyperplane._
